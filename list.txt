@@ -1,0 +1,1 @@
+projem ,bir todo app dir.1ci tabda completed ve uncompleted todolar gozukuyor ve onlara silme ve completed islemi yapa biliyosun,2ci tabda new todo add eliye bilirk ve son olarak 3 cu tabda change theme var.Her sey dinamikdir ve node js de create oln apiden geliyor
